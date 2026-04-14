@@ -407,6 +407,19 @@ This BCP coordinates with the IT Disaster Recovery Plan for technology recovery.
 
 ---
 
+## Professional Disaster Recovery Services
+
+**Petronella Technology Group** helps businesses build resilient IT infrastructure:
+
+- [Disaster Recovery Planning](https://petronellatech.com/cybersecurity/disaster-recovery/) - Custom DR strategies
+- [Managed IT Services](https://petronellatech.com/managed-it-services/) - 24/7 monitoring and backup management
+- [Cybersecurity Services](https://petronellatech.com/cybersecurity/) - Comprehensive security posture
+- [Compliance Consulting](https://petronellatech.com/compliance/cmmc-compliance-guide/) - CMMC, HIPAA, SOC 2
+
+**Petronella Technology Group** is headquartered in Raleigh, NC. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
+---
+
 ## About
 
 Created and maintained by [Petronella Technology Group](https://petronellatech.com) - a cybersecurity and managed IT services firm based in Raleigh, NC. With 23+ years of experience and zero client breaches, we help businesses secure their infrastructure and achieve compliance.
